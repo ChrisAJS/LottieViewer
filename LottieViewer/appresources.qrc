@@ -1,0 +1,9 @@
+<RCC>
+    <qresource prefix="/app">
+        <file>app.js</file>
+        <file>bodymovin.js</file>
+        <file>app.html</file>
+        <file>style.css</file>
+        <file>bg.png</file>
+    </qresource>
+</RCC>
